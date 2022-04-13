@@ -1,0 +1,35 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+
+	background: #c5c5b2;
+	padding: 18px;
+	color: darkblue;
+	font-weight: bolder;
+	
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+
+
+}
+
+ #textohome{
+ 	background: #ECEADB;
+ 	padding: 18px;
+ 	width: 865px;
+ }
+
+.img-campanha{
+	border: 10px solid #c3c3ae;
+}
